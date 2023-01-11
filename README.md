@@ -17,7 +17,7 @@ OCR API を利用した RPA【Robotic Process Automation】のサンプルプロ
 <br>
 呼び出せる API は Google Cloud Vision API と Microsoft Computer Vision API になります。<br>
 <br>
-samples/ocr_api をドキュメントルート上に展開し、defines.incの以下の define 値を設定すると動くかと思います。<br>
+samples/ocr_api をドキュメントルート上に展開し、defines.inc の以下の define 値を設定すると動くかと思います。<br>
 キャッシュディレクトリのアクセス権に注意してください。<br>
 <br>
 **OCR_GOOGLE_APIKEY**： Google の API Key<br>
