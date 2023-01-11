@@ -3,7 +3,7 @@ RPA sample programs using OCR API
 
 # Demo
 
-<a href="https://app.softwarenote.info/ocr_rpa/" target="_blank">https://app.softwarenote.info/ocr_rpa/</a>
+<a href="https://app.softwarenote.info/ocr_rpa/main.php" target="_blank">https://app.softwarenote.info/ocr_rpa/main.php</a>
 
 # Documents
 
@@ -30,5 +30,5 @@ samples/ocr_api をドキュメントルート上に展開し、defines.inc の�
 <a href="https://softwarenote.info/p3346/" target="_blank">https://softwarenote.info/p3346/</a>
 <br>
 Demo & Tutorial<br>
-<a href="https://app.softwarenote.info/ocr_rpa/" target="_blank">https://app.softwarenote.info/ocr_rpa/</a>
+<a href="https://app.softwarenote.info/ocr_rpa/main.php" target="_blank">https://app.softwarenote.info/ocr_rpa/main.php</a>
 <br>
