@@ -30,5 +30,5 @@ samples/ocr_api をドキュメントルート上に展開し、defines.incの�
 <a href="https://softwarenote.info/p3346/" target="_blank">https://softwarenote.info/p3346/</a>
 <br>
 Demo & Tutorial<br>
-<a href="https://app.softwarenote.info/ocr_api/" target="_blank">https://app.softwarenote.info/ocr_api/</a>
+<a href="https://app.softwarenote.info/ocr_rpa/" target="_blank">https://app.softwarenote.info/ocr_rpa/</a>
 <br>
